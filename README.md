@@ -4,25 +4,25 @@ Preliminary Test source code
 
 Location of java files and SQL below.
 
-Question 1:
-    ClassName : ReverseArray.java
+<b>Question 1:</b><br>
+    ClassName : ReverseArray.java<br>
     Location: src/com/snippets/ReverseArray.java
     
     
-Question 2:
-    ClassName : WordSubStringRegular.java
+<b>Question 2:</b><br>
+    ClassName : WordSubStringRegular.java<br>
     Location: src/com/snippets/WordSubStringRegular.java   
     
     
-Question 3:
-    ClassName : WordSubStringRecursive.java
+<b>Question 3:</b><br>
+    ClassName : WordSubStringRecursive.java<br>
     Location: src/com/snippets/WordSubStringRecursive.java
     
-Question 4:
+<b>Question 4:</b><br>
     Location: src/com/exam/
     
     
-Question 5:
+<b>Question 5:</b><br>
     Location: SQL_Queries.sql
     
 Question 6:
