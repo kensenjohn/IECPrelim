@@ -25,6 +25,6 @@ Location of java files and SQL below.
 <b>Question 5:</b><br>
     Location: SQL_Queries.sql
     
-Question 6:
+<b>Question 6:</b><br>
     Location: SQL_Queries.sql
 
